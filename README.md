@@ -1,2 +1,2 @@
-# KropacekEcon
+# KropacekProjects
 For projects in computational economics
